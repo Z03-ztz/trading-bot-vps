@@ -1,0 +1,7 @@
+{
+    "trailing_stop_distance": 0.002,
+    "max_daily_loss": 50,
+    "max_daily_profit": 100,
+    "session_start": "07:00",
+    "session_end": "16:00"
+}
